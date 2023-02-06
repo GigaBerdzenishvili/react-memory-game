@@ -7,7 +7,7 @@ This is a simple memory game built using React. The game consists of 6 different
 
 ## How to run the project 
 
-- Clone the repository: git clone https://github.com/GigaBerdzenishvili/memory-game.git
+- Clone the repository: git clone https://github.com/GigaBerdzenishvili/react-memory-game.git
 - Navigate to the project directory: cd memory-game
 - Install the dependencies: npm install or yarn install
 - Start the development server: npm run dev or yarn dev
