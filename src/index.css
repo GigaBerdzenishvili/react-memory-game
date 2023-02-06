@@ -1,0 +1,14 @@
+html {
+  font-size: 62.5%;
+}
+/* base styles */
+body {
+  font-family: monospace;
+  margin: 0;
+  font-size: 1.6rem;
+  text-align: center;
+  background-color: #fad961;
+  background-image: linear-gradient(90deg, #fad961 0%, #f76b1c 100%);
+
+  color: #fff;
+}
